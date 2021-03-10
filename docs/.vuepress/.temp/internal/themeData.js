@@ -1,16 +1,33 @@
   export const themeData = {
+  "logo": "https://vuejs.org/images/logo.png",
+  "navbar": [
+    {
+      "text": "Kodu",
+      "link": "/"
+    },
+    {
+      "text": "DOCS",
+      "link": "/vpdocs/"
+    },
+    {
+      "text": "Prototüüpimine",
+      "link": "/prototyypimine/"
+    },
+    {
+      "text": "CVI",
+      "link": "/cvi/"
+    }
+  ],
+  "sidebar": "auto",
   "locales": {
     "/": {
       "selectLanguageName": "English",
       "danger": "WARNING"
     }
   },
-  "navbar": [],
-  "logo": null,
   "repo": null,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
-  "sidebar": "auto",
   "editLink": true,
   "editLinkText": "Edit this page",
   "lastUpdated": true,
