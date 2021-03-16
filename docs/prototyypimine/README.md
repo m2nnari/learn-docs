@@ -1,7 +1,4 @@
-# Pealkiri 1
+# PROTOTÜÜPIMINE
 
-sisu
+Siia lehele ma koondan kõik prototüüpimise tööd.
 
-## Pealkiri 2
-
-sisusisu

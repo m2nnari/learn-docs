@@ -15,6 +15,6 @@ git add .
 git commit -m 'deploy'
 
 # pushi reposse
-git push -f git@github.com:m2nnari/learn-docs.git master:gh-pages
+git push -f https://github.com/m2nnari/learn-docs.git master:gh-pages
 
 cd -

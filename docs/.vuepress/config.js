@@ -15,8 +15,8 @@ module.exports = {
         },
         // teine leht teises folderis
         {
-          text: "DOCS",
-          link: "/vpdocs/",
+          text: "Tunnusgraafika",
+          link: "/tunnusgraafika/",
         },
         // kolmas leht kolmandas folderis jne
         {
@@ -24,8 +24,12 @@ module.exports = {
           link: "/prototyypimine/",
         },
         {
-          text: "CVI",
-          link: "/cvi/",
+          text: "Git",
+          link: "/git/",
+        },
+        {
+          text: "Markdown",
+          link: "/markdown/",
         },
       ],
       sidebar: "auto",

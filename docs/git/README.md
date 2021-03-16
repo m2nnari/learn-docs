@@ -1,7 +1,3 @@
-# Pealkiri 1
+# GIT'i SPIKKER
 
-sisu
-
-## Pealkiri 2
-
-sisusisu
+Tegemist on leheküljega, kuhu tuleb GIT'i spikker, kuidas kus ja mida teha.

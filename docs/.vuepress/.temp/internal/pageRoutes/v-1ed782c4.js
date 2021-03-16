@@ -5,7 +5,7 @@ export default [
     name: "v-1ed782c4",
     path: "/prototyypimine/",
     component: Vuepress,
-    meta: { title: "Pealkiri 1" },
+    meta: { title: "PROTOTÜÜPIMINE" },
   },
   {
     path: "/prototyypimine/index.html",

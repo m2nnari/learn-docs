@@ -1,18 +1,11 @@
 export const data = {
   "key": "v-1ed782c4",
   "path": "/prototyypimine/",
-  "title": "Pealkiri 1",
+  "title": "PROTOTÜÜPIMINE",
   "lang": "et",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "Pealkiri 2",
-      "slug": "pealkiri-2",
-      "children": []
-    }
-  ],
+  "headers": [],
   "filePathRelative": "prototyypimine/README.md",
   "git": {
     "updatedTime": 1615383928000,

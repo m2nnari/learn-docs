@@ -6,16 +6,20 @@
       "link": "/"
     },
     {
-      "text": "DOCS",
-      "link": "/vpdocs/"
+      "text": "Tunnusgraafika",
+      "link": "/tunnusgraafika/"
     },
     {
       "text": "Prototüüpimine",
       "link": "/prototyypimine/"
     },
     {
-      "text": "CVI",
-      "link": "/cvi/"
+      "text": "Git",
+      "link": "/git/"
+    },
+    {
+      "text": "Markdown",
+      "link": "/markdown/"
     }
   ],
   "sidebar": "auto",

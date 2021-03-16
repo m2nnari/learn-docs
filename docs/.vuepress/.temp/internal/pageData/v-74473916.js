@@ -1,18 +1,11 @@
 export const data = {
   "key": "v-74473916",
   "path": "/git/",
-  "title": "Pealkiri 1",
+  "title": "GIT'i SPIKKER",
   "lang": "et",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "Pealkiri 2",
-      "slug": "pealkiri-2",
-      "children": []
-    }
-  ],
+  "headers": [],
   "filePathRelative": "git/README.md",
   "git": {
     "updatedTime": 1615383928000,
