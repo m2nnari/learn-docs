@@ -21,3 +21,4 @@ Pealmiselt vigade märksõnad on - CRAP
 Joondamine, koondamine, tasakaalustamine, kontrast.
 Valime Google Fonts'idest endale sobiv pealkirjafont mis läheks väljamõeldud organisatsiooniga kokku.
 Google Fonts pakub ka alapealkirju mis sobivad pealkirjafondiga kokku.
+Samuti tuleb määrata pealkirjade, alapealkirjade ja sisu fondid stiilide abil.
