@@ -8,7 +8,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "markdown/README.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1615891050000,
+    "contributors": [
+      {
+        "name": "unknown",
+        "email": "meelis.mannari@tptlive.ee",
+        "commits": 1
+      }
+    ]
   }
 }
