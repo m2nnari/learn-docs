@@ -5,15 +5,28 @@ export const data = {
   "lang": "et",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "16.03.2021",
+      "slug": "_16-03-2021",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "24.03.2021",
+      "slug": "_24-03-2021",
+      "children": []
+    }
+  ],
   "filePathRelative": "tunnusgraafika/README.md",
   "git": {
-    "updatedTime": 1615891050000,
+    "updatedTime": 1616503313000,
     "contributors": [
       {
         "name": "unknown",
         "email": "meelis.mannari@tptlive.ee",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
