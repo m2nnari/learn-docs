@@ -1,5 +1,5 @@
   export const themeData = {
-  "logo": "/images/Logo3.svg",
+  "logo": "/images/Logo1.svg",
   "navbar": [
     {
       "text": "Kodu",
