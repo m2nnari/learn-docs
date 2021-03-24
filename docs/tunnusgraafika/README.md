@@ -5,7 +5,7 @@ Siia viskan tunnusgraafika tunnis tehtud tööd.
 Paiskan siia oma kolm valikut Padja logodest.
 ![Logo variant 1](./Logo1.svg)
 ![Logo variant 2](./Logo2.svg)
-![Logo variant 3](./Logo3.svg)
+![Logo variant 3](./Logo4.svg)
 
 ## 24.03.2021
 Tuleb lõpetada logo erinevad versioonid.
