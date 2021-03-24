@@ -6,7 +6,7 @@ module.exports = {
     dest: "gh-pages",
   
     themeConfig: {
-      logo: "https://vuejs.org/images/logo.png",
+      logo: "/images/Logo3.svg",
       navbar: [
         // esileht
         {
