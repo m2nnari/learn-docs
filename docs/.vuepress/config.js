@@ -31,6 +31,10 @@ module.exports = {
           text: "Markdown",
           link: "/markdown/",
         },
+        {
+          text: "M2NNARIDESIGN",
+          link: "/m2nnaridesign/",
+        },
       ],
       sidebar: "auto",
     },
