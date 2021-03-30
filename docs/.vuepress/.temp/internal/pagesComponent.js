@@ -2,6 +2,7 @@ import { defineAsyncComponent } from 'vue'
 
 export const pagesComponent = {
   "/": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/Meelis/Documents/learn-docs/docs/.vuepress/.temp/pages/README.vue")),
+  "/Fotograafia/": defineAsyncComponent(() => import(/* webpackChunkName: "v-64c4794e" */"C:/Users/Meelis/Documents/learn-docs/docs/.vuepress/.temp/pages/Fotograafia/README.vue")),
   "/git/": defineAsyncComponent(() => import(/* webpackChunkName: "v-74473916" */"C:/Users/Meelis/Documents/learn-docs/docs/.vuepress/.temp/pages/git/README.vue")),
   "/m2nnaridesign/": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ec62092" */"C:/Users/Meelis/Documents/learn-docs/docs/.vuepress/.temp/pages/m2nnaridesign/README.vue")),
   "/markdown/": defineAsyncComponent(() => import(/* webpackChunkName: "v-72881372" */"C:/Users/Meelis/Documents/learn-docs/docs/.vuepress/.temp/pages/markdown/README.vue")),

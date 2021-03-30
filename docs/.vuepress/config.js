@@ -35,6 +35,10 @@ module.exports = {
           text: "M2NNARIDESIGN",
           link: "/m2nnaridesign/",
         },
+        {
+          text: "Fotograafia",
+          link: "/Fotograafia/",
+        },
       ],
       sidebar: "auto",
     },
